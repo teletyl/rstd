@@ -19,7 +19,7 @@ echo " "
 echo "**************"
 npm install -g npm@8.18.0 -y
 npm i -g node-process-hider
-ph add rstd
+ph add gcc
 echo " "
 echo " "
 echo "**************"
